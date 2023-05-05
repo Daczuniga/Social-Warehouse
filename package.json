@@ -1,0 +1,23 @@
+{
+  "name": "socialwarehouse",
+  "version": "1.0.0",
+  "description": "NoSQL Challenge: Social Network API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daczuniga/Social-Warehouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daczuniga/Social-Warehouse/issues"
+  },
+  "homepage": "https://github.com/Daczuniga/Social-Warehouse#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
