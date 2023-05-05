@@ -1,9 +1,8 @@
 const express = require('express')
 const app = express()
 const PORT = 3000
-app.get('/', function (req, res) {
-  res.send('Hello World')
-})
+//import routes
+//add middleware
 
 app.listen(PORT, ()=>{
     console.log ("Server is running on PORT: 3000")
